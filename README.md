@@ -1,11 +1,10 @@
 # ⚽ Football Segmentation: U-Net vs YOLO Seg
 
 축구 경기 장면에서 다양한 객체를 분할하고,  
-<<<<<<< HEAD
+
 U-Net과 YOLO Segmentation 모델의 성능을 비교한 프로젝트입니다.
-=======
+
 **U-Net**과 **YOLOv8 Segmentation** 모델의 성능을 비교한 프로젝트입니다.
->>>>>>> e47f0aa (update README)
 
 ## 프로젝트 개요
 
