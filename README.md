@@ -1,6 +1,7 @@
 # Football Segmentation
 
-U-Net과 YOLO Seg를 비교한 축구 장면 segmentation 프로젝트입니다.
+축구 경기 장면에서 다양한 객체를 분할하고,  
+U-Net과 YOLO Segmentation 모델의 성능을 비교한 프로젝트입니다.
 
 ## Models
 - U-Net
