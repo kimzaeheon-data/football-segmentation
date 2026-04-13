@@ -2,8 +2,6 @@
 
 축구 경기 장면에서 다양한 객체를 분할하고,  
 
-U-Net과 YOLO Segmentation 모델의 성능을 비교한 프로젝트입니다.
-
 **U-Net**과 **YOLOv8 Segmentation** 모델의 성능을 비교한 프로젝트입니다.
 
 ## 프로젝트 개요
