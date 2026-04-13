@@ -149,12 +149,11 @@
 - PyTorch
 - Ultralytics YOLOv8
 - Albumentations
-<<<<<<< HEAD
 
 ## Insight
 데이터가 제한된 환경에서는 pixel-level segmentation 모델(U-Net)보다  
 pretrained 기반의 instance segmentation 모델(YOLO Seg)이 더 안정적인 성능을 보였다.
-=======
+
 - OpenCV
 - Matplotlib
 
@@ -167,4 +166,3 @@ pretrained 기반의 instance segmentation 모델(YOLO Seg)이 더 안정적인 
 특히,  
 **작은 데이터셋에서는 YOLO Segmentation이 더 강한 baseline이 될 수 있으며**,  
 U-Net은 더 많은 데이터와 pretrained encoder가 결합될 때 성능 향상 가능성이 크다는 점을 확인했다.
->>>>>>> e47f0aa (update README)
