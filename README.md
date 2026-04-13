@@ -100,6 +100,8 @@
 | YOLOv8 Seg | mAP50 | 약 0.50 |
 | YOLOv8 Seg | mAP50-95 | 약 0.33~0.37 |
 
+YOLOv8 Segmentation은 적은 데이터 환경에서도 안정적인 객체 분할 성능을 보였고, U-Net은 데이터 부족과 클래스 불균형의 영향을 더 크게 받았다.
+
 ### 정성적 비교
 
 | Input | Ground Truth | U-Net | YOLO |
