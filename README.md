@@ -14,3 +14,7 @@ U-Net과 YOLO Seg를 비교한 축구 장면 segmentation 프로젝트입니다.
 - PyTorch
 - Ultralytics YOLO
 - Albumentations
+
+## Insight
+데이터가 제한된 환경에서는 pixel-level segmentation 모델(U-Net)보다  
+pretrained 기반의 instance segmentation 모델(YOLO Seg)이 더 안정적인 성능을 보였다.
